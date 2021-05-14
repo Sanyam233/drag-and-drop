@@ -1,4 +1,4 @@
-import { useState, useReducer, useEffect } from 'react';
+import { useState, useReducer } from 'react';
 
 import styles from './App.module.css';
 import DropZone from './components/DropZone/DropZone';
