@@ -1,0 +1,24 @@
+.App{
+    width : 90%;
+    margin : auto;
+    text-align: center;
+}
+
+.showButton{
+    padding : 0.5em 1.25em;
+    color : var(--white);
+    background-color: var(--red-bg);
+    margin : 1em 0.5em 0 0;
+    font-size : 1.125rem;
+    border : none;
+    cursor: pointer;
+}   
+
+.showButton:hover {
+    background-color: var(--red-hvr);
+}
+
+.showButton:disabled {
+    background-color : var(--grey-bg);
+    color : var(--grey-txt);
+}

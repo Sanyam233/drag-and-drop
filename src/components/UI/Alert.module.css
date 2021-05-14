@@ -1,0 +1,29 @@
+.alert {
+    height : 60px;
+    width: 90%;
+    max-width: 786px;
+    margin: 1em auto;
+    border-radius: 5px;
+    padding : 0.5em 1em;
+    display : flex;
+    justify-content : space-between;
+    align-items : center;
+}
+
+.success {
+    background-color : var(--success-bg);
+    color : var(--success-txt);
+}
+
+.error {
+    background-color : var(--error-bg);
+    color : var(--error-txt);
+}
+
+.dismissButton {
+    border: none;
+    background-color: transparent;
+    font-size : 0.9rem;
+    cursor : pointer;
+    color : inherit;
+}

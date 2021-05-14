@@ -1,0 +1,13 @@
+.DropZone {
+    max-width: 1080px;
+    height : 20vh;
+    display : grid;
+    place-items : center;
+    margin : auto;
+    border : 1px dashed var(--grey-txt);
+    background-color : var(--grey-bg);
+    color : var(--grey-txt);
+    outline : none;
+    margin-top : 20px;
+    cursor: pointer;
+}

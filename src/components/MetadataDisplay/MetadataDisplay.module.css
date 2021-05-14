@@ -1,0 +1,16 @@
+.displayContainer {
+    margin: 2em auto;
+    box-shadow: 2px 3px 8px #ccc;
+    padding : 1em;
+    max-width: 640px;
+}
+
+
+.displayContainer li {
+    margin-bottom: 1em;
+    text-align : left;
+}
+
+span {
+    font-weight : bold;
+}
