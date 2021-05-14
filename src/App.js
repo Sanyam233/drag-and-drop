@@ -59,7 +59,8 @@ function App() {
     setIsMetaVisible(false);
     dispatchAlert({ type : 'REMOVED'});
   }
-
+  
+  //dismisses the alert message
   const dismissAlert = () => {
     dispatchAlert({ type : 'RESET' });
   }
@@ -74,12 +75,12 @@ function App() {
     alertText = 'Upload one file at a time';
   }
 
-  const alertDisplay = alert.isAdded || alert.isRemoved || alert.error;
+  const isAlertVisible = alert.isAdded || alert.isRemoved || alert.error;
 
   return (
     <div className = {styles.App}>
       {
-      alertDisplay && 
+      isAlertVisible && 
       <Alert onDismiss = {dismissAlert} isError = {alert.error} >
         {alertText}
       </Alert>
