@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Sanyam233/drag-and-drop/static/css/main.46521c37.chunk.css",
-    "main.js": "/Sanyam233/drag-and-drop/static/js/main.5b107365.chunk.js",
-    "main.js.map": "/Sanyam233/drag-and-drop/static/js/main.5b107365.chunk.js.map",
-    "runtime-main.js": "/Sanyam233/drag-and-drop/static/js/runtime-main.665e7468.js",
-    "runtime-main.js.map": "/Sanyam233/drag-and-drop/static/js/runtime-main.665e7468.js.map",
-    "static/js/2.b56d73f4.chunk.js": "/Sanyam233/drag-and-drop/static/js/2.b56d73f4.chunk.js",
-    "static/js/2.b56d73f4.chunk.js.map": "/Sanyam233/drag-and-drop/static/js/2.b56d73f4.chunk.js.map",
-    "static/js/3.9d9a7465.chunk.js": "/Sanyam233/drag-and-drop/static/js/3.9d9a7465.chunk.js",
-    "static/js/3.9d9a7465.chunk.js.map": "/Sanyam233/drag-and-drop/static/js/3.9d9a7465.chunk.js.map",
-    "index.html": "/Sanyam233/drag-and-drop/index.html",
-    "static/css/main.46521c37.chunk.css.map": "/Sanyam233/drag-and-drop/static/css/main.46521c37.chunk.css.map",
-    "static/js/2.b56d73f4.chunk.js.LICENSE.txt": "/Sanyam233/drag-and-drop/static/js/2.b56d73f4.chunk.js.LICENSE.txt"
+    "main.css": "/drag-and-drop/static/css/main.46521c37.chunk.css",
+    "main.js": "/drag-and-drop/static/js/main.5b107365.chunk.js",
+    "main.js.map": "/drag-and-drop/static/js/main.5b107365.chunk.js.map",
+    "runtime-main.js": "/drag-and-drop/static/js/runtime-main.fdb72478.js",
+    "runtime-main.js.map": "/drag-and-drop/static/js/runtime-main.fdb72478.js.map",
+    "static/js/2.b56d73f4.chunk.js": "/drag-and-drop/static/js/2.b56d73f4.chunk.js",
+    "static/js/2.b56d73f4.chunk.js.map": "/drag-and-drop/static/js/2.b56d73f4.chunk.js.map",
+    "static/js/3.9d9a7465.chunk.js": "/drag-and-drop/static/js/3.9d9a7465.chunk.js",
+    "static/js/3.9d9a7465.chunk.js.map": "/drag-and-drop/static/js/3.9d9a7465.chunk.js.map",
+    "index.html": "/drag-and-drop/index.html",
+    "static/css/main.46521c37.chunk.css.map": "/drag-and-drop/static/css/main.46521c37.chunk.css.map",
+    "static/js/2.b56d73f4.chunk.js.LICENSE.txt": "/drag-and-drop/static/js/2.b56d73f4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.665e7468.js",
+    "static/js/runtime-main.fdb72478.js",
     "static/js/2.b56d73f4.chunk.js",
     "static/css/main.46521c37.chunk.css",
     "static/js/main.5b107365.chunk.js"
